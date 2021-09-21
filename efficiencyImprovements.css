@@ -1,6 +1,8 @@
+/* formats <body> tag */
 body {
     background-color:turquoise;
 }
+/* formats <p> tag */
 p {
     font-weight:bold;
     text-align:center;
